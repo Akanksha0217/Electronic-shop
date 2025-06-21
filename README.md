@@ -19,8 +19,10 @@ The project is created for practice and learning purposes. It demonstrates how t
 
   ## 📚 Technologies Used
    HTML5
-##check my webpage
-https://glistening-fox-4c8290.netlify.app/
+  ---
+## check my webpage
+https://electronicshoppage.netlify.app/
+--
   ## 🙋‍♀️ Created By
 
 **Akanksha Baykar**  
